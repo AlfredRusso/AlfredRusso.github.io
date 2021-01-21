@@ -36,9 +36,12 @@ h1{
 
 nav {
   text-align: center;
-  text-align: -webkit-center;
+  text-align: webkit-center;
 }
 
+ul {
+	text-align: webkit-center;
+}
 
 
 nav li {
