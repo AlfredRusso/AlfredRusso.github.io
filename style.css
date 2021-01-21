@@ -35,7 +35,6 @@ h1{
 }
 
 nav {
-  text-align: center;
   text-align: webkit-center;
 }
 
@@ -55,7 +54,7 @@ nav li {
 li a {
   display: block;
   color: white;
-  text-align: center;
+  text-align: webkit-center;
 	padding: 30px 30px;
 	text-decoration: none;
 }
