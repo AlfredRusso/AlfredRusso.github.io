@@ -35,11 +35,11 @@ h1{
 }
 
 nav {
-  text-align: webkit-center;
+  text-align: -webkit-center;
 }
 
 ul {
-	text-align: webkit-center;
+  text-align: -webkit-center;
 }
 
 
