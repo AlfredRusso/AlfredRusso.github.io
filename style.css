@@ -1,6 +1,6 @@
 body{
   background-color: #fffefc;
-  font-family: Georgia;
+  font-family: "ff-tisa-web-pro", serif, Georgia;
   color:#4e4c54 ;
   text-align: center;
   
@@ -30,12 +30,13 @@ h1{
   font-size: 60px;
   color: black;
   text-align: center;
-  font-family: Courier New;
+  font-family: "ff-tisa-web-pro", serif, Georgia;
   padding: 20px;
 }
 
 nav {
   text-align: center;
+  text-align: webkit-center;
 }
 
 
