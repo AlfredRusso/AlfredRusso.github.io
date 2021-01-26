@@ -1,0 +1,130 @@
+body{
+  background-color: #fffefc;
+  font-family: "ff-tisa-web-pro", serif, Georgia;
+  color:#4e4c54 ;
+  text-align: center;
+  
+}
+
+.quote {
+  background-image: url(https://i.etsystatic.com/11694341/r/il/f94df8/1852587788/il_570xN.1852587788_nnrf.jpg);
+  font-weight: bold;
+  color: white;
+  border: 0px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: 300px;
+  }
+#text {
+  background-color: white;
+  opacity: 50%;
+  text-align: left;
+  font-weight: bold;
+  color: black;
+  font-size: 10px;
+  padding: 20px;
+}
+h1{
+  font-size: 60px;
+  color: black;
+  text-align: center;
+  font-family: Courier New;
+  padding: 20px;
+}
+
+nav {
+  text-align: center;
+  text-align: -webkit-center;
+}
+
+ul {
+  text-align: -webkit-center;
+}
+
+
+nav li {
+  display: table-cell;
+  background-color: #ffd191;
+  color: white;
+  font-weight: bold;
+  color: white;
+  }
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+	padding: 30px 30px;
+	text-decoration: none;
+}
+
+.footer {
+  background-color: #ffccdf;
+  padding: 40px;
+}
+.afooter{
+  color: white;
+  background-color: #89c2d9;
+  padding: 15px;
+}
+h2{
+  color: black;
+  padding: 20px;
+}
+
+hr{
+  height: 5px;
+  color: #38889c;
+  background-color: black;
+  opacity: 90%;
+}
+img {
+  width: 600px;
+  height: 700px;
+  opacity: 90%;
+  position: relative;
+  
+}
+
+h3{
+  color: white;
+  padding: 20px;
+  background-color: #ffd08a;
+}
+
+.list1 {
+background-color: #ffc861;
+  color: white;
+  font-weight: bold;
+  text-align: left;
+  padding: 40px;
+}
+
+.list1 h4 {
+  text-align: center;
+  font-size: 20px;
+}
+
+#whodotheylike h4{
+  background-color: #ffc861;
+  padding: 20px;
+  color: white;
+  font-size: 30px;
+}
+
+p {
+padding: 20px;
+}
+
+.thisis em{
+  color: white;
+  background-color: #ffd5c9;
+  padding: 30px;
+}
+
+embed {
+  width: 300px;
+  height: auto;
+}
